@@ -34,6 +34,8 @@ Time Complexity: O(n), where n is the total content of emails vector.
 Space Complexity: O(n) (worst case). 
 
 Tests:
-Should be covered 100% by tests but it understood that it is out of this scope for now
+I use a TDD approach because
+All software must be covered 100% by tests for future integration/new features
+I understood that it is out of this scope for now
 Anyway I provided a little client to test the wwebservice
 In general I use Junit to test the software (very useful for automatic unit and integration tests) 
